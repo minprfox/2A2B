@@ -1,3 +1,7 @@
+/*
+	debug:
+	fix the error of input repeated number;
+*/
 #include <iostream>
 #include <cstring>
 using namespace std;
